@@ -37,4 +37,7 @@ The project offers an intuitive way to explore player and team performance throu
 
 3. Run the application:
    ```bash
-   python 
+   python main.py
+
+## Results
+The project delivers an engaging visualization experience, providing insights into player and team shooting performance during UEFA Euro 2024.
